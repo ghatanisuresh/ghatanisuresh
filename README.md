@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub Banner](https://github.com/ghatanisuresh/ghatanisuresh/blob/main/Banner.jpg)
+![My GitHub Banner](https://github.com/ghatanisuresh/ghatanisuresh/blob/main/banner0.jpg)
 
 ## 📈 GitHub Stats
 ![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimNielsen&show_icons=true&theme=radical)
