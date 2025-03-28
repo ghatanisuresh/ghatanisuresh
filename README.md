@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My GitHub Banner](https://github.com/JimNielsen/JimNielsen/blob/main/banner.png)
+
+## 📈 GitHub Stats
+![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimNielsen&show_icons=true&theme=radical)
+
+
 # Hi 👋, I'm Suresh - A Data Analyst From Sydney 🇦🇺
 
 I am passionate about using Python, SQL, and data visualization tools to analyze and solve real-world problems.
